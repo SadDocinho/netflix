@@ -1,2 +1,2 @@
 # Site
-Trying make a new Website
+This is my first time trying to make a website

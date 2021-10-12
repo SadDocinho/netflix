@@ -1,8 +1,6 @@
 .Menu-principal {
-    width: 100%
+    width: 100%;
+    align-content: center;
     background-color: #BE06DE;
     height: 60px;
-}
-.discord {
-    position: absolute;
 }

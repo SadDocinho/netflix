@@ -1,9 +1,6 @@
 body {
-    width: 100%;
-    height: 100%;
     background-color: white;
-    width: 100%;
-    height: 100%;
+    
 }
 header {
     width: 100%;
@@ -19,6 +16,9 @@ img.logo {
     padding: 10px;
     text-align: right;
     align-items: right;
+}
+ b {
+    font-family: 'Roboto Condensed', sans-serif;
 }
 .sobre {
     background-color: pink;

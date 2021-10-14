@@ -19,9 +19,5 @@ header {
     width: 1280px;
     height: 600px;
     flex-wrap: wrap;
-    align-items: flex-end;
+    align-items: right;
 }
-img.logo {
-    padding: 10px
-}
-

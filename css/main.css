@@ -12,6 +12,9 @@ header {
     float: left
 
 }
+img.logo {
+    padding: 10px
+}
 .discordframe {
     padding: 10px;
     text-align: right;

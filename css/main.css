@@ -12,18 +12,14 @@ header {
 img.logo {
     padding: 10px
 }
-.discordframe {
-    padding: 10px;
-    text-align: right;
-    align-items: right;
-}
+
  .corpo > div.sobre {
     align-items: left;
     text-align: left;
 }
  .corpo > div.discordframe {
-text-align: right;
-align-items: right;
+    text-align: right;
+    align-items: right;
  }
 
 .texto {

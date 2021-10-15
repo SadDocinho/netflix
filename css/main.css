@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: rgb(240, 158, 172);
     
 }
 header {
@@ -12,7 +12,11 @@ header {
 img.logo {
     padding: 10px
 }
-
+.corpo {
+    background-color: pink;
+    box-sizing: border-box;
+    padding: 10px, 10px, 10px, 10px
+}
  .corpo > div.sobre {
     align-items: left;
     text-align: left;
@@ -20,6 +24,7 @@ img.logo {
  .corpo > div.discordframe {
     text-align: right;
     align-items: right;
+    float: right
  }
 .texto {
     align-items: center;

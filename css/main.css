@@ -17,14 +17,15 @@ img.logo {
     text-align: right;
     align-items: right;
 }
- b {
-    font-family: 'Roboto Condensed', sans-serif;
+ .corpo > div.sobre {
+    align-items: left;
+    text-align: left;
 }
-.sobre {
-    background-color: pink;
-    align-items: center;
-    text-align: center;
-}
+ .corpo > div.discordframe {
+text-align: right;
+align-items: right;
+ }
+
 .texto {
     align-items: center;
     text-align: center;

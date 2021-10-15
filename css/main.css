@@ -15,18 +15,28 @@ img.logo {
 .corpo {
     background-color: pink;
     box-sizing: border-box;
-    padding: 10px, 10px, 10px, 10px
+    padding: 10px, 10px, 10px, 10px;
+    height: 100%
 }
  .corpo > div.sobre {
     align-items: left;
     text-align: left;
+    padding: 30px;
 }
  .corpo > div.discordframe {
     text-align: right;
     align-items: right;
-    float: right
+    float: right;
+    padding: 30px;
  }
 .texto {
+    
+    width: 85vh;
+}
+b {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.center {
     align-items: center;
     text-align: center;
 }

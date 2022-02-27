@@ -4,9 +4,11 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "electron-nightly": "^19.0.0-nightly.20220209"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

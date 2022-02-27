@@ -1,42 +1,4 @@
 body {
-    background-color: rgb(240, 158, 172);
-    
-}
-header {
-    width: 100%;
-    background-color: palevioletred;
-    height: 80px;
-    float: left
+    background-color: rgba(55, 63, 165, 0.815);
 
-}
-img.logo {
-    padding: 10px
-}
-.corpo {
-    background-color: pink;
-    box-sizing: border-box;
-    padding: 10px, 10px, 10px, 10px;
-    height: 100%
-}
- .corpo > div.sobre {
-    align-items: left;
-    text-align: left;
-    padding: 30px;
-}
- .corpo > div.discordframe {
-    text-align: right;
-    align-items: right;
-    float: right;
-    padding: 30px;
- }
-.texto {
-    
-    width: 85vh;
-}
-b {
-    font-family: 'Roboto Condensed', sans-serif;
-}
-.center {
-    align-items: center;
-    text-align: center;
-}
+};

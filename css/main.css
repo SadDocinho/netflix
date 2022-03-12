@@ -1,7 +1,9 @@
+/* Corpo do site */
 body {
-    background-color: rgba(55, 63, 165, 0.815);
+    background-color: rgba(55, 63, 165, 0.815); 
 }
-    button{
+/* Testes */
+button {
     background-color: #4CAF50; /* Green */
     border: none;
     color: white;
@@ -9,5 +11,4 @@ body {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
-};
+    font-size: 16px; };

@@ -1,12 +1,7 @@
 body {
     background-color: rgb(115, 115, 184);
 }
-button {
-    background-color: #add8ae; /* Green */
-    border: black;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px; };
+section {
+    width: 300px;
+    background-color: black;
+}

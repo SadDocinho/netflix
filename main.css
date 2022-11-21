@@ -17,10 +17,13 @@
 .container-fluid {
     align-self:auto;
 }
-#teste1 {
+a {
+    outline: none;
+    border: none;
+    text-decoration: none;
+    color: black;
+}
+.space {
     margin: auto;
     padding-left: 800px;
-}
-a {
-    color: black;
 }

@@ -1,14 +1,12 @@
+
 #Body {
     background-color: rgb(2, 252, 252);
 }
-#Nav {
-    align-items: flex-end;
+.nav {
+    background-color: rgb(66, 29, 202);
 }
-#Nav-Item {
-    background-color: azure;
-    color:black;
-    padding-left: 10px;
-    padding-right: 15px;
+.dropdown {
+    position: absolute;
 }
 #F1 {
     display: table;
@@ -18,7 +16,6 @@
     font-family: 'Rubik Bubbles', cursive;
     font-size: 15px;
 }
-#Icon {
-    height: 25px;
-    width: 25px;
+.container-fluid {
+    align-self:auto;
 }
